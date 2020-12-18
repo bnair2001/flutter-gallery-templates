@@ -1,0 +1,81 @@
+{
+  "@@last_modified": "2020-10-11T16:57:07.423796",
+  "title": "Hello World",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "increaseButton": "Increase Test",
+  "@increaseButton": {
+    "description": "Title for the button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "anotherButton": "anotherButton",
+  "@anotherButton": {
+    "description": "Title for the another button",
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppGenericHeadline": "Headline",
+  "@starterAppGenericHeadline": {
+    "description": "Generic placeholder for headline in drawer.",
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppGenericTitle": "Title",
+  "@starterAppGenericTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppGenericSubtitle": "Subtitle",
+  "@starterAppGenericSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppGenericBody": "Body",
+  "@starterAppGenericBody": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppGenericButton": "BUTTON",
+  "@starterAppGenericButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppTooltipAdd": "Add",
+  "@starterAppTooltipAdd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppTooltipFavorite": "Favorite",
+  "@starterAppTooltipFavorite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppTooltipShare": "Share",
+  "@starterAppTooltipShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppTooltipSearch": "starterAppTooltipSearch",
+  "@starterAppTooltipSearch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppTitle": "Starter app",
+  "@starterAppTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "starterAppDrawerItem": "Item {value}",
+  "@starterAppDrawerItem": {
+    "type": "text",
+    "placeholders": {
+      "value": {
+        "example": 1
+      }
+    }
+  }
+}
